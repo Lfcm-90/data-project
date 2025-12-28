@@ -1,4 +1,4 @@
-# Data Project
+# Data Project DBT
 
 Este é um projeto pessoal de estudo criado para aprofundar meus conhecimentos em modelagem analítica de dados utilizando `dbt-core`. O objetivo é praticar conceitos de engenharia de dados em um ambiente local, reproduzível e próximo de cenários reais de trabalho.
 
